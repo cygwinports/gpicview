@@ -5,6 +5,7 @@ lightening fast startup and intuitive interface.
 
 Runtime requirements:
   cygwin-1.7.0-50
+  libgcc1-4.3.2-2
   libgdk_pixbuf2.0_0-2.16.3-1
   libglib2.0_0-2.20.4-1
   libgtk2.0_0-2.16.3-1
