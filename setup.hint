@@ -1,5 +1,5 @@
 category: Graphics
-requires: libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 libjpeg62 libX11_6
+requires: libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 libjpeg7 libX11_6
 sdesc: "LXDE graphics viewer"
 ldesc: "GPicView is the standard picture viewer of LXDE. GPicView 
 features lightening fast startup and intuitive interface."
