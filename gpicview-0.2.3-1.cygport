@@ -1,0 +1,8 @@
+inherit gnome2
+
+CATEGORY="Graphics LXDE"
+SUMMARY="GTK+ lightweight image viewer"
+DESCRIPTION="GPicView is the standard picture viewer of LXDE. GPicView
+features lightening fast startup and intuitive interface."
+HOMEPAGE="http://lxde.sourceforge.net/gpicview/"
+SRC_URI="mirror://sourceforge/lxde/${P}.tar.gz"

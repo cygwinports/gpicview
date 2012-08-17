@@ -1,5 +1,0 @@
-inherit gnome2
-
-DESCRIPTION="GTK+ lightweight image viewer"
-HOMEPAGE="http://lxde.sourceforge.net/gpicview/"
-SRC_URI="mirror://sourceforge/lxde/${P}.tar.gz"
